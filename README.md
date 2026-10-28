@@ -1,4 +1,4 @@
-# 3 Lista de Exercícios em MIPS Assembly 🚀
+# 3 Lista de Exercícios em MIPS Assembly
 
 Este repositório contém as soluções de exercícios práticos desenvolvidos em **MIPS Assembly**, utilizando o emulador **MARS** (MIPS Assembler and Runtime Simulator).
 
